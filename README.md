@@ -23,7 +23,7 @@
 <img width="1680" alt="Screenshot 2025-01-26 at 11 08 03 PM" src="https://github.com/user-attachments/assets/f7796b1e-3db8-4a0f-9935-b5901fa7cac0" />
 
 ### Frontend Setup
-1. Clone the repository (if not already cloned) and navigate to the target directory:
+1. Clone the repository and navigate to the target directory:
     ```bash
     git clone https://github.com/yourusername/QuestSearch.git
     cd questsearch/frontend
@@ -42,7 +42,6 @@
 ### Backend Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/QuestSearch.git
     cd questsearch/backend
     ```
 
