@@ -1,15 +1,15 @@
-#QuestSearch
+# QuestSearch
 
 **QuestSearch** is an advanced search platform engineered to deliver fast, precise, and scalable search capabilities for extensive collections of questions. It integrates MongoDB Atlas Full-Text Search for efficient and flexible querying, while gRPC serves as the core of the search service for high-performance communication. An Express.js middleware bridges the gap between the gRPC service and the frontend, managing API routing, cross-origin requests, and seamless backend-to-frontend communication. The frontend is developed with Vite + React to ensure a modern, smooth, and intuitive user experience.
 
-##Key Highlights
+## Key Highlights
 
-- **Efficient Full-Text Search: Employs MongoDB Atlas Full-Text Search to efficiently query question titles, ensuring accurate and speedy results.
-- **Paginated Results: Provides pagination to streamline user navigation and optimize search response times.
-- **Customizable Filters: Enables filtering questions by categories such as Multiple Choice, Anagram, Read Along, and more for a refined search experience.
-- **Adaptive Design: Fully responsive interface for an optimal user experience across mobile, tablet, and desktop devices.
-- **High-Performance API: Powered by a gRPC-based API to handle search requests efficiently, with Express.js acting as a middleware to route data and manage cross-origin communication seamlessly.
-- **Scalable Architecture: Designed for handling large datasets, utilizing MongoDB's indexing features to maximize search performance and ensure scalability.
+- **Efficient Full-Text Search**: Employs MongoDB Atlas Full-Text Search to efficiently query question titles, ensuring accurate and speedy results.
+- **Paginated Results**: Provides pagination to streamline user navigation and optimize search response times.
+- **Customizable Filters**: Enables filtering questions by categories such as Multiple Choice, Anagram, Read Along, and more for a refined search experience.
+- **Adaptive Design**: Fully responsive interface for an optimal user experience across mobile, tablet, and desktop devices.
+- **High-Performance API**: Powered by a gRPC-based API to handle search requests efficiently, with Express.js acting as a middleware to route data and manage cross-origin communication seamlessly.
+- **Scalable Architecture**: Designed for handling large datasets, utilizing MongoDB's indexing features to maximize search performance and ensure scalability.
 
 ## Project Setup Guide
 
